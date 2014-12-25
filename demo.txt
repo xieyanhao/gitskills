@@ -1,3 +1,4 @@
 xieyanhao
 
 hello
+$ git checkout master
